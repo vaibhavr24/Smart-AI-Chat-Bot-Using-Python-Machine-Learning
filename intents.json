@@ -1,0 +1,87 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paytm",
+        "We accept most major credit cards, and Paytm"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "pdm",
+      "patterns": [
+        "where is pdm",
+        "about pdm",
+        "placements",
+        "contact details"
+      ],
+      "responses": [
+        "PDM Rd, Sector 3A, Bahadurgarh, Haryana 124507.",
+        "The PDM University has been established by the Haryana State Legislature under the Haryana Private Universities Act No. 32 of 2006, as amended by the Haryana Private Universities (Amendment), Act, 2015 (Haryana Act No.1 of 2016) and notified in the Haryana Govt. Gazette (Extra) Notification No. Leg.2/2016, dated 14th January, 2016.",
+        "Welcome to Training & Placement Cell at PDM University. PDM is a world class institution of Science & Technology. It has acquired this status through meritorious and innovative students, high quality faculty, and contribution by distinguished alumni. Our alumni have excelled in every field. PDM offers a large pool of talent to recruit from, with a wide range of specializations at UG and PG levels. PDM offers a large pool of talent to recruit from, with a wide range of specializations at UG and PG levels.",
+        "ADDRESS:  Sector 3A Bahadurgarh, Haryana 124507 || PHONE:     1800-180-6600 (Toll Free) || Whatsapp: +91-1276221700 || EMAIL:       info@pdm.ac.in || Nearest Metro Station:  Bahadurgarh City Metro Station [Green Line]"
+      ]
+    }
+  ]
+}

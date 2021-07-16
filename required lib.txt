@@ -1,0 +1,13 @@
+TensorFlow is a Python library for fast numerical computing created and released by Google
+It is a foundation library that can be used to create Deep Learning models
+
+Torch is an open-source machine learning library, a scientific computing framework
+It provides a wide range of algorithms for deep learning
+
+Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications.
+
+NumPy is a Python library used for working with arrays.
+NumPy stands for Numerical Python.
+
+NLTK (Natural Language Toolkit) is a suite that contains libraries and programs for statistical language processing.
+it contains packages to make machines understand human language and reply to it with an appropriate response.
