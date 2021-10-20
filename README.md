@@ -3,7 +3,7 @@
 
 A desktop type chatbot which is a computer program designed to simulate conversation with human users
 
-# portfolioFlask
+# Chatbot
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vaibhavr24/Smart-AI-Chat-Bot-Using-Python-Machine-Learning/blob/main/app.py)
 
