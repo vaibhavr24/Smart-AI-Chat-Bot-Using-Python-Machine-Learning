@@ -33,6 +33,14 @@ Install nltk
   pip install nltk
 ```
 
+## Working Screenshots
+
+
+![1a](https://user-images.githubusercontent.com/73458444/138130632-8773fac6-5752-457d-a611-d208fec9b26c.png)
+![1b](https://user-images.githubusercontent.com/73458444/138130634-8578eaf5-eadd-4aed-a04f-a94d9fda3f12.png)
+![1c](https://user-images.githubusercontent.com/73458444/138130620-09dd7ae1-e7c0-4856-ac96-3eac3faf0d4a.png)
+![2a](https://user-images.githubusercontent.com/73458444/138130628-eff4c208-ed2a-4bee-9fad-83050917feb5.png)
+![2b](https://user-images.githubusercontent.com/73458444/138130630-462bb0c5-5500-4f44-b729-1f0182161221.png)  
 ## Authors
 
 - [@vaibhavr24](https://github.com/vaibhavr24)
